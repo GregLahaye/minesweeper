@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  </head>
+  <body>
+    <table id="board">
+    </table>
+    <div>
+      <h2 id="status">Play!</h2>
+      <button onclick="play()">Reset</button>
+      <h3>Difficulty</h3>
+      <select id="difficulty" onChange="play()">
+        <option value="EASY">Easy</option>
+        <option value="MEDIUM">Medium</option>
+        <option value="HARD">Hard</option>
+      </select>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

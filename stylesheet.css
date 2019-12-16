@@ -1,0 +1,64 @@
+table {
+  background-color: #c4c4c4;
+}
+
+td {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.unrevealed {
+  background-color: #bdbdbd;
+  border: 3px solid #777777;
+}
+
+.revealed {
+  background-color: #bdbdbd;
+  border: 3px solid #bdbdbd;
+}
+
+.flagged {
+  background-color: #000;
+}
+
+.mine {
+  background-color: #e62924;
+}
+
+.a1 {
+  color: #110df8;
+}
+
+.a2 {
+  color: #1b801b;
+}
+
+.a3 {
+  color: #f80002;
+}
+
+.a4 {
+  color: #05037d;
+}
+
+.a5 {
+  color: #7e0002;
+}
+
+.a6 {
+  color: #1d8181;
+}
+
+.a7 {
+  color: #000000;
+}
+
+.a8 {
+  color: #808080;
+}
+
+
